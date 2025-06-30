@@ -1,0 +1,38 @@
+/* FoOTER SECTION STYLING */
+.footer {
+    background-color: purple;
+    color: white;
+    padding: 25px 0 10px 0;
+    width: 1550px;
+}
+
+.footer .logo img {
+    height: 50px;
+}
+
+.footer select {
+    max-width: 150px;
+    margin-left: 30px;
+}
+
+.footer .footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.footer .footer-bottom a {
+    color: #d7a33d;
+    text-decoration: none;
+}
+
+.footer .footer-bottom a:hover {
+    text-decoration: underline;
+}
+
+.footer .divider {
+    border-left: 1px solid #d7a33d;
+    height: 15px;
+    margin: 0 10px;
+}
